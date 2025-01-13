@@ -1,29 +1,28 @@
 {
   "name": "vue-tag-cloud",
   "version": "0.0.1",
-  "description": "Vue component for tag clound!",
+  "description": "Tag Cloud component for Vue 3",
   "main": "VueTagCloud.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nobalmohan/vue-tag-cloud.git"
+    "url": "git@github.com:philiprsnyder/vue-tag-cloud.git"
   },
   "keywords": [
     "Vue",
-    "Vue2",
-    "Tag",
+    "Vue3",
     "Tag",
     "Cloud",
     "Word",
     "Cloud",
     "Javascript"
   ],
-  "author": "Nobal",
+  "author": "Philip Snyder <philip.r.snyder@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nobalmohan/vue-tag-cloud/issues"
+    "url": "https://github.com/philiprsnyder/vue-tag-cloud/issues"
   },
-  "homepage": "https://github.com/nobalmohan/vue-tag-cloud#readme"
+  "homepage": "https://github.com/philiprsnyder/vue-tag-cloud#readme"
 }
